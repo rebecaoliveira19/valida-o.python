@@ -1,0 +1,2 @@
+- Como validar dados em python?
+- segue o exercício que fiz usando alguns exemplos que você pode fazer no seu dia a dia 
